@@ -14,6 +14,7 @@
 | `5. mobile-app-poc-bridge.md` | bridge リポの原典 |
 | `6. mobile-app-poc-backend.md` | backend リポの原典 |
 | `ionic-vue-workflow.md` | Ionic Vue 開発フロー総覧 + VS Code/Kotlin 環境構築 |
+| `auth-strategy.md` | JWT 詳細と代替認証方式の比較・推奨パターン |
 | `superpowers/specs/` | 各リポの詳細設計書 |
 | `superpowers/plans/` | 各リポの実装計画 |
 
